@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>B2D7793A-A26F-4B39-BB8F-E6C87273FC59</SharedGUID>
+  </PropertyGroup>
+  <ItemGroup>
+	<Content Include="$(MSBuildThisFileDirectory)data.json" />
+	<Content Include="$(MSBuildThisFileDirectory)c2runtime.js" />
+	<Content Include="$(MSBuildThisFileDirectory)jquery-2.1.1.min.js" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tiledbackgroundgame1.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\block.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\player-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\player-sheet1.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\player-sheet2.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\teddy-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\jump-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\dontuse01-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\turtle-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\baloon-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\gmeoverback-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\peppa-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\selectlevelback-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\sprite-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\stopwatch-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tachimeter-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\speedthumb-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tiledbackgroundgame2.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tiledbackgroundgame3.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tiledbackgroundgame4.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\sprite2-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tiledbackgroundgame5.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tiledbackgroundgame6.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tiledbackgroundgame7.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\tiledbackgroundgame8.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\cloud-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\easysprite-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\normsprite-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\hardsprite-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\gameoverback-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\sprite5-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\backarrowhighscores-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\cupsilver-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\cupbronze-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\cupgold-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\highscoresback-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)images\highscoresprite-sheet0.png" />
+	<Content Include="$(MSBuildThisFileDirectory)icon-16.png" />
+	<Content Include="$(MSBuildThisFileDirectory)icon-32.png" />
+	<Content Include="$(MSBuildThisFileDirectory)icon-114.png" />
+	<Content Include="$(MSBuildThisFileDirectory)icon-128.png" />
+	<Content Include="$(MSBuildThisFileDirectory)icon-256.png" />
+	<Content Include="$(MSBuildThisFileDirectory)loading-logo.png" />
+
+  </ItemGroup>
+</Project>
