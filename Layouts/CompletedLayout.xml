@@ -98,7 +98,7 @@
                         <text>YOU WIN!!!</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-80,700,1</font>
-                        <color>150,97,169</color>
+                        <color>255,0,0</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -140,7 +140,7 @@
                         <text>Final Score</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-37,700,1</font>
-                        <color>150,97,169</color>
+                        <color>255,0,0</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>

@@ -130,7 +130,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>385</x>
-                        <y>366</y>
+                        <y>386</y>
                         <z>0</z>
                         <width>128</width>
                         <height>128</height>
@@ -152,7 +152,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>535</x>
-                        <y>366</y>
+                        <y>386</y>
                         <z>0</z>
                         <width>128</width>
                         <height>128</height>
@@ -174,7 +174,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>682</x>
-                        <y>366</y>
+                        <y>386</y>
                         <z>0</z>
                         <width>128</width>
                         <height>128</height>
@@ -201,7 +201,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>339</x>
-                        <y>384</y>
+                        <y>404</y>
                         <z>0</z>
                         <width>128</width>
                         <height>64</height>
@@ -217,7 +217,7 @@
                         <text>Easy</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-40,700,1</font>
-                        <color>153,102,255</color>
+                        <color>255,0,0</color>
                         <horizontal-alignment>Left</horizontal-alignment>
                         <vertical-alignment>Top</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -228,7 +228,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>337</x>
-                        <y>382</y>
+                        <y>402</y>
                         <z>0</z>
                         <width>128</width>
                         <height>64</height>
@@ -255,7 +255,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>471</x>
-                        <y>384</y>
+                        <y>404</y>
                         <z>0</z>
                         <width>144</width>
                         <height>64</height>
@@ -271,7 +271,7 @@
                         <text>Norm</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-40,700,1</font>
-                        <color>153,102,255</color>
+                        <color>255,0,0</color>
                         <horizontal-alignment>Left</horizontal-alignment>
                         <vertical-alignment>Top</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -282,7 +282,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>469</x>
-                        <y>382</y>
+                        <y>402</y>
                         <z>0</z>
                         <width>144</width>
                         <height>64</height>
@@ -309,7 +309,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>633</x>
-                        <y>384</y>
+                        <y>404</y>
                         <z>0</z>
                         <width>144</width>
                         <height>64</height>
@@ -325,7 +325,7 @@
                         <text>Hard</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-40,700,1</font>
-                        <color>153,102,255</color>
+                        <color>255,0,0</color>
                         <horizontal-alignment>Left</horizontal-alignment>
                         <vertical-alignment>Top</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -336,7 +336,7 @@
                     <effect-fallback>0</effect-fallback>
                     <world>
                         <x>631</x>
-                        <y>382</y>
+                        <y>402</y>
                         <z>0</z>
                         <width>144</width>
                         <height>64</height>
@@ -352,7 +352,7 @@
                         <text>High Scores</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-40,700,1</font>
-                        <color>153,102,255</color>
+                        <color>255,0,0</color>
                         <horizontal-alignment>Left</horizontal-alignment>
                         <vertical-alignment>Top</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -389,8 +389,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>487</x>
-                        <y>246</y>
+                        <x>490</x>
+                        <y>257</y>
                         <z>0</z>
                         <width>288</width>
                         <height>64</height>
@@ -406,7 +406,7 @@
                         <text>Start Game</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-40,700,1</font>
-                        <color>153,102,255</color>
+                        <color>255,0,0</color>
                         <horizontal-alignment>Left</horizontal-alignment>
                         <vertical-alignment>Top</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -416,8 +416,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>485</x>
-                        <y>244</y>
+                        <x>488</x>
+                        <y>255</y>
                         <z>0</z>
                         <width>288</width>
                         <height>64</height>

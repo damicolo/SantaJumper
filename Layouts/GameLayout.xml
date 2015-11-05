@@ -352,14 +352,14 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>187.204040527</x>
-                        <y>165.899246216</y>
+                        <x>144</x>
+                        <y>176</y>
                         <z>0</z>
-                        <width>159.255249023</width>
-                        <height>128.598602295</height>
+                        <width>85.49546051</width>
+                        <height>104.800872803</height>
                         <depth>0</depth>
-                        <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.501547992</hotspotY>
+                        <hotspotX>0.505376339</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -445,11 +445,11 @@
                         <x>80</x>
                         <y>560</y>
                         <z>0</z>
-                        <width>71.865615845</width>
-                        <height>71.24407959</height>
+                        <width>72.105171204</width>
+                        <height>62.219829559</height>
                         <depth>0</depth>
-                        <hotspotX>0.550000012</hotspotX>
-                        <hotspotY>0.589999974</hotspotY>
+                        <hotspotX>0.551495016</hotspotX>
+                        <hotspotY>0.591603041</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -515,7 +515,7 @@
                         <text>3</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-35,700,1</font>
-                        <color>141,198,63</color>
+                        <color>255,0,0</color>
                         <horizontal-alignment>Right</horizontal-alignment>
                         <vertical-alignment>Top</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -596,11 +596,11 @@
                         <x>372.527404785</x>
                         <y>561.792480469</y>
                         <z>0</z>
-                        <width>55.893333435</width>
-                        <height>64.21333313</height>
+                        <width>64</width>
+                        <height>64</height>
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
-                        <hotspotY>0.504983366</hotspotY>
+                        <hotspotY>0.50333333</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -618,11 +618,11 @@
                         <x>766</x>
                         <y>234.026641846</y>
                         <z>0</z>
-                        <width>51.710407257</width>
-                        <height>59.40776825</height>
+                        <width>59.210388184</width>
+                        <height>59.210399628</height>
                         <depth>0</depth>
-                        <hotspotX>0.503816783</hotspotX>
-                        <hotspotY>0.504983366</hotspotY>
+                        <hotspotX>0.50333333</hotspotX>
+                        <hotspotY>0.50333333</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -632,7 +632,7 @@
                         <text>0</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-35,700,1</font>
-                        <color>141,198,63</color>
+                        <color>255,0,0</color>
                         <horizontal-alignment>Right</horizontal-alignment>
                         <vertical-alignment>Top</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -659,7 +659,7 @@
                         <text>90</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-48,700,1</font>
-                        <color>141,198,63</color>
+                        <color>255,0,0</color>
                         <horizontal-alignment>Right</horizontal-alignment>
                         <vertical-alignment>Top</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -755,7 +755,7 @@
                         <text>Text</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-27,700,1</font>
-                        <color>98,140,44</color>
+                        <color>255,0,0</color>
                         <horizontal-alignment>Right</horizontal-alignment>
                         <vertical-alignment>Top</vertical-alignment>
                         <hotspot>Top-left</hotspot>

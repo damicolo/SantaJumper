@@ -8,7 +8,7 @@
     <author-website>Damicolo</author-website>
     <app-id>Damicolo</app-id>
     <unique-id>mq4njje893h0</unique-id>
-    <saved-with-version>21202</saved-with-version>
+    <saved-with-version>21600</saved-with-version>
     <used-plugins>
         <plugin author="Scirra" id="Arr" version="1">Array</plugin>
         <plugin author="Scirra" id="Browser" version="1">Browser</plugin>
@@ -63,7 +63,7 @@
                     <behavior id="Bullet" />
                 </behavior-type>
             </behaviors>
-            <texture original-source="G:\Mimmi\tinkerball\images\tiledbackgroundgame1.png" />
+            <texture original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\tiledbackgroundgame1.png" />
         </object-type>
         <object-type name="Block" sid="829064574361329">
             <plugin id="TiledBg" />
@@ -75,7 +75,7 @@
                     <behavior id="Bullet" />
                 </behavior-type>
             </behaviors>
-            <texture original-source="G:\Mimmi\tinkerball\images\block.png" />
+            <texture original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\block.png" />
         </object-type>
         <object-type name="Player" sid="5620842870602321">
             <plugin id="Sprite" />
@@ -85,10 +85,10 @@
                 </behavior-type>
             </behaviors>
             <animation-folder>
-                <animation framecount="3" loop="1" name="Default" pingpong="1" repeatcount="1" repeatto="0" sid="2480651737999168" speed="12">
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.501548" original-source="G:\Mimmi\tinkerball\Nuova cartella\player-sheet1.png" />
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.501548" original-source="G:\Mimmi\tinkerball\Nuova cartella\player-sheet0.png" />
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.501548" original-source="G:\Mimmi\tinkerball\Nuova cartella\player-sheet2.png" />
+                <animation framecount="3" loop="1" name="Default" pingpong="1" repeatcount="1" repeatto="0" sid="2480651737999168" speed="8">
+                    <frame duration="1" hotspotX="0.505376" hotspotY="0.5" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\player-sheet0.png" />
+                    <frame duration="1" hotspotX="0.505376" hotspotY="0.5" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\player-sheet1.png" />
+                    <frame duration="1" hotspotX="0.505376" hotspotY="0.5" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\player-sheet2.png" />
                 </animation>
             </animation-folder>
         </object-type>
@@ -110,7 +110,7 @@
             </behaviors>
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="7063298383918438" speed="5">
-                    <frame duration="1" hotspotX="0.55" hotspotY="0.59" original-source="G:\Mimmi\tinkerball\images\baloon-sheet0.png">
+                    <frame duration="1" hotspotX="0.551495" hotspotY="0.591603" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\teddy-sheet0.png">
                         <collision-poly>
                             <point x="0.216692" y="0.143153" />
                             <point x="0.473333" y="0.00855857" />
@@ -204,7 +204,7 @@
             </behaviors>
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="8306122308442815" speed="5">
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.504983" original-source="G:\Mimmi\tinkerball\images\teddy-sheet0.png">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.503333" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\baloon-sheet0.png">
                         <collision-poly>
                             <point x="0.15" y="0.15" />
                             <point x="0.5" y="0.00333333" />
@@ -223,7 +223,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="2728482358155663" speed="5">
-                    <frame duration="1" hotspotX="0" hotspotY="0" original-source="G:\Mimmi\tinkerball\images\gameoverback-sheet0.png" />
+                    <frame duration="1" hotspotX="0" hotspotY="0" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\gameoverback-sheet0.png" />
                 </animation>
             </animation-folder>
         </object-type>
@@ -246,7 +246,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="9269835447593955" speed="5">
-                    <frame duration="1" hotspotX="0.503817" hotspotY="0.504983" original-source="G:\Mimmi\tinkerball\images\teddy-sheet0.png">
+                    <frame duration="1" hotspotX="0.503333" hotspotY="0.503333" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\baloon-sheet0.png">
                         <collision-poly>
                             <point x="0.15" y="0.15" />
                             <point x="0.5" y="0.00333333" />
@@ -268,7 +268,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="295814862894176" speed="5">
-                    <frame duration="1" hotspotX="0.503817" hotspotY="0.501661" original-source="G:\Mimmi\tinkerball\images\teddy-sheet0.png">
+                    <frame duration="1" hotspotX="0.503333" hotspotY="0.5" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\baloon-sheet0.png">
                         <collision-poly>
                             <point x="0.15" y="0.15" />
                             <point x="0.5" y="0.00333333" />
@@ -287,7 +287,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="5099117185263997" speed="5">
-                    <frame duration="1" hotspotX="0.503817" hotspotY="0.501661" original-source="G:\Mimmi\tinkerball\images\teddy-sheet0.png">
+                    <frame duration="1" hotspotX="0.503333" hotspotY="0.5" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\baloon-sheet0.png">
                         <collision-poly>
                             <point x="0.15" y="0.15" />
                             <point x="0.5" y="0.00333333" />
@@ -317,7 +317,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="6522434705003828" speed="5">
-                    <frame duration="1" hotspotX="0" hotspotY="0" original-source="G:\Mimmi\tinkerball\images\selectlevelback-sheet0.png" />
+                    <frame duration="1" hotspotX="0" hotspotY="0" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\highscoresback-sheet0.png" />
                 </animation>
             </animation-folder>
         </object-type>
@@ -328,12 +328,12 @@
             </instance-variables>
             <animation-folder>
                 <animation framecount="6" loop="0" name="Default" pingpong="0" repeatcount="0" repeatto="0" sid="3769402416024279" speed="0">
-                    <frame duration="1" hotspotX="0.500778" hotspotY="0.500775" original-source="G:\Mimmi\tinkerball\LevelsIcon0.png" />
-                    <frame duration="1" hotspotX="0.500778" hotspotY="0.500775" original-source="G:\Mimmi\tinkerball\LevelsIcon1.png" />
-                    <frame duration="1" hotspotX="0.500778" hotspotY="0.500775" original-source="G:\Mimmi\tinkerball\LevelsIcon2.png" />
-                    <frame duration="1" hotspotX="0.500778" hotspotY="0.500775" original-source="G:\Mimmi\tinkerball\LevelsIcon3.png" />
-                    <frame duration="1" hotspotX="0.500778" hotspotY="0.500775" original-source="G:\Mimmi\tinkerball\LevelsIcon4.png" />
-                    <frame duration="1" hotspotX="0.500778" hotspotY="0.500775" original-source="G:\Mimmi\tinkerball\LevelsIcon5.png" />
+                    <frame duration="1" hotspotX="0.500778" hotspotY="0.500775" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\LevelsIcon1.png" />
+                    <frame duration="1" hotspotX="0.500778" hotspotY="0.500775" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\LevelsIcon2.png" />
+                    <frame duration="1" hotspotX="0.500778" hotspotY="0.500775" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\LevelsIcon3.png" />
+                    <frame duration="1" hotspotX="0.500778" hotspotY="0.500775" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\LevelsIcon4.png" />
+                    <frame duration="1" hotspotX="0.500778" hotspotY="0.500775" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\LevelsIcon5.png" />
+                    <frame duration="1" hotspotX="0.500778" hotspotY="0.500775" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\LevelsIcon6.png" />
                 </animation>
             </animation-folder>
         </object-type>
@@ -359,7 +359,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="4976784350300677" speed="5">
-                    <frame duration="1" hotspotX="0.502283" hotspotY="0.500747" original-source="G:\Mimmi\tinkerball\images\stopwatch-sheet0.png">
+                    <frame duration="1" hotspotX="0.502283" hotspotY="0.500747" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\stopwatch-sheet0.png">
                         <collision-poly>
                             <point x="0.205479" y="0.178571" />
                             <point x="0.497717" y="0.0119048" />
@@ -378,7 +378,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="4412289401094256" speed="5">
-                    <frame duration="1" hotspotX="0.501618" hotspotY="0.50193" original-source="G:\Mimmi\tinkerball\images\tachimeter-sheet0.png">
+                    <frame duration="1" hotspotX="0.501618" hotspotY="0.50193" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\tachimeter-sheet0.png">
                         <collision-poly>
                             <point x="0.145631" y="0.173745" />
                             <point x="0.498382" y="0" />
@@ -397,7 +397,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="6849437311737829" speed="5">
-                    <frame duration="1" hotspotX="0.0519481" hotspotY="0.490909" original-source="G:\Mimmi\tinkerball\images\speedthumb-sheet0.png">
+                    <frame duration="1" hotspotX="0.0519481" hotspotY="0.490909" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\speedthumb-sheet0.png">
                         <collision-poly>
                             <point x="0.285714" y="0.4" />
                             <point x="0.493506" y="0.127273" />
@@ -424,7 +424,7 @@
                     <behavior id="Bullet" />
                 </behavior-type>
             </behaviors>
-            <texture original-source="G:\Mimmi\tinkerball\images\tiledbackgroundgame2.png" />
+            <texture original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\tiledbackgroundgame2.png" />
         </object-type>
         <object-type name="TiledBackgroundGame3" sid="3337803776230033">
             <plugin id="TiledBg" />
@@ -433,7 +433,7 @@
                     <behavior id="Bullet" />
                 </behavior-type>
             </behaviors>
-            <texture original-source="G:\Mimmi\tinkerball\images\tiledbackgroundgame3.png" />
+            <texture original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\tiledbackgroundgame3.png" />
         </object-type>
         <object-type name="TiledBackgroundGame4" sid="986603303918918">
             <plugin id="TiledBg" />
@@ -442,7 +442,7 @@
                     <behavior id="Bullet" />
                 </behavior-type>
             </behaviors>
-            <texture original-source="G:\Mimmi\tinkerball\images\tiledbackgroundgame4.png" />
+            <texture original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\tiledbackgroundgame4.png" />
         </object-type>
         <object-type name="WebStorage" sid="8288254847294655">
             <plugin id="WebStorage" />
@@ -451,7 +451,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="9274061207892888" speed="5">
-                    <frame duration="1" hotspotX="0" hotspotY="0" original-source="G:\Mimmi\tinkerball\images\1.png" />
+                    <frame duration="1" hotspotX="0" hotspotY="0" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\selectlevelback-sheet0.png" />
                 </animation>
             </animation-folder>
         </object-type>
@@ -468,7 +468,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="8067732250038289" speed="5">
-                    <frame duration="1" hotspotX="-0.142857" hotspotY="0.490909" original-source="G:\Mimmi\tinkerball\images\speedthumb-sheet0.png">
+                    <frame duration="1" hotspotX="-0.142857" hotspotY="0.490909" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\speedthumb-sheet0.png">
                         <collision-poly>
                             <point x="0.285714" y="0.4" />
                             <point x="0.493506" y="0.127273" />
@@ -489,7 +489,7 @@
                     <behavior id="Bullet" />
                 </behavior-type>
             </behaviors>
-            <texture original-source="G:\Mimmi\tinkerball\images\tiledbackgroundgame5.png" />
+            <texture original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\tiledbackgroundgame5.png" />
         </object-type>
         <object-type name="TiledBackgroundGame6" sid="6842082145845741">
             <plugin id="TiledBg" />
@@ -498,7 +498,7 @@
                     <behavior id="Bullet" />
                 </behavior-type>
             </behaviors>
-            <texture original-source="G:\Mimmi\tinkerball\images\tiledbackgroundgame6.png" />
+            <texture original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\tiledbackgroundgame6.png" />
         </object-type>
         <object-type name="TiledBackgroundGame7" sid="1609711634809526">
             <plugin id="TiledBg" />
@@ -507,7 +507,7 @@
                     <behavior id="Bullet" />
                 </behavior-type>
             </behaviors>
-            <texture original-source="G:\Mimmi\tinkerball\images\tiledbackgroundgame7.png" />
+            <texture original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\tiledbackgroundgame7.png" />
         </object-type>
         <object-type name="TiledBackgroundGame8" sid="5152217577224775">
             <plugin id="TiledBg" />
@@ -516,7 +516,7 @@
                     <behavior id="Bullet" />
                 </behavior-type>
             </behaviors>
-            <texture original-source="G:\Mimmi\tinkerball\images\tiledbackgroundgame8.png" />
+            <texture original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\tiledbackgroundgame8.png" />
         </object-type>
         <object-type name="Cloud" sid="8618852748385121">
             <plugin id="Sprite" />
@@ -552,7 +552,16 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="2038153441856881" speed="5">
-                    <frame duration="1" hotspotX="0.506494" hotspotY="0.509091" original-source="G:\Mimmi\tinkerball\images\speedthumb-sheet0.png" />
+                    <frame duration="1" hotspotX="0.506494" hotspotY="0.509091" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\speedthumb-sheet0.png">
+                        <collision-poly>
+                            <point x="0.285714" y="0.4" />
+                            <point x="0.493506" y="0.109091" />
+                            <point x="0.987013" y="0.490909" />
+                            <point x="0.493506" y="0.890909" />
+                            <point x="0.285714" y="0.6" />
+                            <point x="0.0519481" y="0.490909" />
+                        </collision-poly>
+                    </frame>
                 </animation>
             </animation-folder>
         </object-type>
@@ -563,7 +572,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="9127961337015193" speed="5">
-                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="G:\Mimmi\tinkerball\images\easysprite-sheet0.png">
+                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\easysprite-sheet0.png">
                         <collision-poly>
                             <point x="0.0516854" y="0.0516854" />
                             <point x="0.498876" y="0" />
@@ -582,7 +591,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="9591034972135549" speed="5">
-                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="G:\Mimmi\tinkerball\images\normsprite-sheet0.png">
+                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\normsprite-sheet0.png">
                         <collision-poly>
                             <point x="0.0516854" y="0.0516854" />
                             <point x="0.498876" y="0" />
@@ -601,7 +610,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="9000251434460341" speed="5">
-                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="G:\Mimmi\tinkerball\images\hardsprite-sheet0.png">
+                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\hardsprite-sheet0.png">
                         <collision-poly>
                             <point x="0.0516854" y="0.0516854" />
                             <point x="0.498876" y="0" />
@@ -629,9 +638,9 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="3" loop="0" name="Default" pingpong="0" repeatcount="0" repeatto="0" sid="1106428772808398" speed="0">
-                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="G:\Mimmi\tinkerball\images\easysprite-sheet0.png" />
-                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="G:\Mimmi\tinkerball\images\normsprite-sheet0.png" />
-                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="G:\Mimmi\tinkerball\images\hardsprite-sheet0.png" />
+                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\easysprite-sheet0.png" />
+                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\normsprite-sheet0.png" />
+                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\hardsprite-sheet0.png" />
                 </animation>
             </animation-folder>
         </object-type>
@@ -639,9 +648,9 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="3" loop="0" name="Default" pingpong="0" repeatcount="0" repeatto="0" sid="1905292124966001" speed="0">
-                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="G:\Mimmi\tinkerball\images\easysprite-sheet0.png" />
-                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="G:\Mimmi\tinkerball\images\normsprite-sheet0.png" />
-                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="G:\Mimmi\tinkerball\images\hardsprite-sheet0.png" />
+                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\easysprite-sheet0.png" />
+                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\normsprite-sheet0.png" />
+                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\hardsprite-sheet0.png" />
                 </animation>
             </animation-folder>
         </object-type>
@@ -665,7 +674,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="9888207203827326" speed="5">
-                    <frame duration="1" hotspotX="0" hotspotY="0" original-source="G:\Mimmi\tinkerball\images\gameoverback-sheet0.png" />
+                    <frame duration="1" hotspotX="0" hotspotY="0" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\gmeoverback-sheet0.png" />
                 </animation>
             </animation-folder>
         </object-type>
@@ -693,7 +702,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="1510775000758126" speed="5">
-                    <frame duration="1" hotspotX="0.502333" hotspotY="0.503876" original-source="G:\Mimmi\tinkerball\LevelsIcon1.png">
+                    <frame duration="1" hotspotX="0.502333" hotspotY="0.503876" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\LevelsIcon2.png">
                         <collision-poly>
                             <point x="0.0606532" y="0.0604651" />
                             <point x="0.499222" y="0" />
@@ -718,7 +727,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="9063271523889908" speed="5">
-                    <frame duration="1" hotspotX="-0.142857" hotspotY="0.490909" original-source="G:\Mimmi\DORA\images\speedthumb-sheet0.png">
+                    <frame duration="1" hotspotX="-0.142857" hotspotY="0.490909" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\speedthumb-sheet0.png">
                         <collision-poly>
                             <point x="0.0227268" y="0.00909118" />
                             <point x="0.969156" y="0.0545454" />
@@ -742,7 +751,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="9818040843483315" speed="5">
-                    <frame duration="1" hotspotX="0.502688" hotspotY="0.502688" original-source="G:\Mimmi\tinkerball\images\cupsilver-sheet0.png">
+                    <frame duration="1" hotspotX="0.502632" hotspotY="0.503856" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\cupsilver-sheet0.png">
                         <collision-poly>
                             <point x="0.147139" y="0.146739" />
                             <point x="0.498638" y="0" />
@@ -761,7 +770,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="5273808806989707" speed="5">
-                    <frame duration="1" hotspotX="0.502688" hotspotY="0.502688" original-source="G:\Mimmi\tinkerball\images\cupbronze-sheet0.png">
+                    <frame duration="1" hotspotX="0.502632" hotspotY="0.503856" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\cupbronze-sheet0.png">
                         <collision-poly>
                             <point x="0.147139" y="0.146739" />
                             <point x="0.498638" y="0" />
@@ -783,7 +792,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="9318386408214032" speed="5">
-                    <frame duration="1" hotspotX="0.502688" hotspotY="0.502688" original-source="G:\Mimmi\tinkerball\images\cupgold-sheet0.png">
+                    <frame duration="1" hotspotX="0.502632" hotspotY="0.503856" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\cupgold-sheet0.png">
                         <collision-poly>
                             <point x="0.147139" y="0.146739" />
                             <point x="0.498638" y="0" />
@@ -802,7 +811,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="1750421223318649" speed="5">
-                    <frame duration="1" hotspotX="0" hotspotY="0" original-source="G:\Mimmi\tinkerball\images\highscoresback-sheet0.png" />
+                    <frame duration="1" hotspotX="0" hotspotY="0" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\sprite2-sheet0.png" />
                 </animation>
             </animation-folder>
         </object-type>
@@ -825,7 +834,7 @@
             <plugin id="Sprite" />
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="7913645905295011" speed="5">
-                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="G:\Mimmi\tinkerball\images\highscoresprite-sheet0.png">
+                    <frame duration="1" hotspotX="0.501124" hotspotY="0.501124" original-source="C:\Users\Damiano\OneDrive\Immagini\App\NATALE 2015\santa claus jump\images\highscoresprite-sheet0.png">
                         <collision-poly>
                             <point x="0.0516854" y="0.0516854" />
                             <point x="0.498876" y="0" />

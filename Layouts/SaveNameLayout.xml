@@ -191,7 +191,7 @@
                         <text>NEW HIGH SCORE!!!</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-43,700,1</font>
-                        <color>255,51,153</color>
+                        <color>255,0,0</color>
                         <horizontal-alignment>Left</horizontal-alignment>
                         <vertical-alignment>Top</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -218,7 +218,7 @@
                         <text>Play Again</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-37,700,1</font>
-                        <color>255,51,153</color>
+                        <color>255,0,0</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Top</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -272,7 +272,7 @@
                         <text>987654</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-48,700,1</font>
-                        <color>255,51,153</color>
+                        <color>255,0,0</color>
                         <horizontal-alignment>Left</horizontal-alignment>
                         <vertical-alignment>Top</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -307,11 +307,11 @@
                         <x>514</x>
                         <y>212</y>
                         <z>0</z>
-                        <width>83.549530029</width>
-                        <height>82.273971558</height>
+                        <width>95.667404175</width>
+                        <height>82.00063324</height>
                         <depth>0</depth>
-                        <hotspotX>0.503816783</hotspotX>
-                        <hotspotY>0.504983366</hotspotY>
+                        <hotspotX>0.50333333</hotspotX>
+                        <hotspotY>0.50333333</hotspotY>
                         <angle>-0.523599148</angle>
                         <opacity>1</opacity>
                     </world>
@@ -329,11 +329,11 @@
                         <x>564</x>
                         <y>200</y>
                         <z>0</z>
-                        <width>82.333999634</width>
-                        <height>82.273971558</height>
+                        <width>94.27557373</width>
+                        <height>82.00063324</height>
                         <depth>0</depth>
-                        <hotspotX>0.503816783</hotspotX>
-                        <hotspotY>0.501661122</hotspotY>
+                        <hotspotX>0.50333333</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0</angle>
                         <opacity>1</opacity>
                     </world>
@@ -351,11 +351,11 @@
                         <x>614</x>
                         <y>212</y>
                         <z>0</z>
-                        <width>85.314781189</width>
-                        <height>83.121520996</height>
+                        <width>97.688682556</width>
+                        <height>82.845367432</height>
                         <depth>0</depth>
-                        <hotspotX>0.503816783</hotspotX>
-                        <hotspotY>0.501661122</hotspotY>
+                        <hotspotX>0.50333333</hotspotX>
+                        <hotspotY>0.5</hotspotY>
                         <angle>0.52359879</angle>
                         <opacity>1</opacity>
                     </world>
@@ -413,7 +413,7 @@
                         <text>SAVE</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-48,700,1</font>
-                        <color>255,51,153</color>
+                        <color>255,0,0</color>
                         <horizontal-alignment>Left</horizontal-alignment>
                         <vertical-alignment>Top</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -462,7 +462,7 @@
                         <text>A</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -668,7 +668,7 @@
                         <text>B</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -698,7 +698,7 @@
                         <text>C</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -728,7 +728,7 @@
                         <text>D</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -758,7 +758,7 @@
                         <text>E</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -788,7 +788,7 @@
                         <text>F</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -818,7 +818,7 @@
                         <text>G</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -848,7 +848,7 @@
                         <text>H</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -878,7 +878,7 @@
                         <text>I</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -930,7 +930,7 @@
                         <text>J</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -1136,7 +1136,7 @@
                         <text>K</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -1166,7 +1166,7 @@
                         <text>L</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -1196,7 +1196,7 @@
                         <text>M</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -1226,7 +1226,7 @@
                         <text>N</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -1256,7 +1256,7 @@
                         <text>O</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -1286,7 +1286,7 @@
                         <text>P</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -1316,7 +1316,7 @@
                         <text>Q</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -1346,7 +1346,7 @@
                         <text>R</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -1398,7 +1398,7 @@
                         <text>S</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -1604,7 +1604,7 @@
                         <text>T</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -1634,7 +1634,7 @@
                         <text>U</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -1664,7 +1664,7 @@
                         <text>V</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -1694,7 +1694,7 @@
                         <text>W</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -1724,7 +1724,7 @@
                         <text>X</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -1754,7 +1754,7 @@
                         <text>Y</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -1784,7 +1784,7 @@
                         <text>Z</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
@@ -1814,7 +1814,7 @@
                         <text>.</text>
                         <initial-visibility>Visible</initial-visibility>
                         <font>Verdana,-32,700,0</font>
-                        <color>255,255,255</color>
+                        <color>0,102,255</color>
                         <horizontal-alignment>Center</horizontal-alignment>
                         <vertical-alignment>Center</vertical-alignment>
                         <hotspot>Top-left</hotspot>
