@@ -6,9 +6,9 @@ using System.Windows.Markup;
 using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
-using Fairyjumper.Resources;
+using FairylandAdventure.Resources;
 
-namespace Fairyjumper
+namespace FairylandAdventure
 {
     public partial class App : Application
     {

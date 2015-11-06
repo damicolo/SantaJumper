@@ -1,6 +1,6 @@
-﻿using Fairyjumper.Resources;
+﻿using FairylandAdventure.Resources;
 
-namespace Fairyjumper
+namespace FairylandAdventure
 {
     /// <summary>
     /// Provides access to string resources.

@@ -8,7 +8,7 @@ using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
 
-namespace Fairyjumper
+namespace FairylandAdventure
 {
     public partial class MainPage : PhoneApplicationPage
     {
@@ -43,9 +43,9 @@ namespace Fairyjumper
             Browser.InvokeScript("eval", "if (window.C2WP8Notify) C2WP8Notify('deactivated');");
         }
 
-        private void AdControl_ErrorOccurred(object sender, Microsoft.Advertising.AdErrorEventArgs e)
-        {
-            Console.Write(e.ToString());
-        }
-    }
+		private void AdControl_ErrorOccurred(object sender, Microsoft.Advertising.AdErrorEventArgs e)
+		{
+			Console.Write(e.ToString());
+		}
+	}
 }
